@@ -1,4 +1,5 @@
-<img align="center" alt="l" src="https://img.freepik.com/vecteurs-libre/fond-espace-infini_1217-1214.jpg?w=1060&t=st=1702832674~exp=1702833274~hmac=cf07877d3755a91ef5422a54edb9c99a695c59bbf0b8c9544dc59266bd61d0ed">
+
+![mypic](https://github.com/RimaBzch/RimaBzch/assets/86674923/d80c2aa9-c854-4549-8c50-331a97f1c327)
 <h1 align="center">Hi 👋, I'm Reema !</h1>
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=A Passionate Software Engineering; Student from Tunisia %F0%9F%92%9C %F0%9F%92%9C %F0%9F%92%9C %F0%9F%92%9C %F0%9F%92%9C;" alt="Typing SVG">
