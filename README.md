@@ -1,5 +1,6 @@
+![mypic2](https://github.com/RimaBzch/RimaBzch/assets/86674923/7237a9e9-4b53-48db-94c8-09097f652570)
 
-![mypic](https://github.com/RimaBzch/RimaBzch/assets/86674923/d80c2aa9-c854-4549-8c50-331a97f1c327)
+
 <h1 align="center">Hi 👋, I'm Reema !</h1>
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=A Passionate Software Engineering; Student from Tunisia %F0%9F%92%9C %F0%9F%92%9C %F0%9F%92%9C %F0%9F%92%9C %F0%9F%92%9C;" alt="Typing SVG">
