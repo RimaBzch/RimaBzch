@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Devops and OpenCv**
 
-- 💬 Ask me about **Java,Python,React,Angular,Nltk, Algorithms Problems**
+- 💬 Ask me about **Java,Python,React,Angular,Nlp, Algorithms Problems**
 
 - 📫 How to reach me **itmbziouich@gmail.com**
 
