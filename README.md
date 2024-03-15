@@ -9,11 +9,11 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rimabzch&label=Profile%20views&color=0e75b6&style=flat" alt="rimabzch" /> </p>
 
-- 🔭 I’m currently working **with React and Java**
+- 🔭 I’m currently working **with React and Nest**
 
 - 🌱 I’m currently learning **AI**
 
-- 💬 Ask me about **Java,Python,Nlp, Algorithms Problems**
+- 💬 Ask me about **Algorithms Problems**
 
 - 📫 How to reach me **itmbziouich@gmail.com**
 
